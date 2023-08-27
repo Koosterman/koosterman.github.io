@@ -14,3 +14,4 @@ The Covid-19 Data is crucial for tracking the Covid-19 pandemic.  The value of t
 [Hadley Wickham, ggplot2 Elegant Graphics for Data Analysis](https://ggplot2-book.org/)
 
 Data visualization is crucial because data can be so vast and complex, but it is most applicable if the analysis is grasped and understood.  An important way for data to be clearly presented is through clear visualization.  This book can help bridge the gap between complex data that is challenging to understand and turn it into clear, concise graphics that can be used to inform.
+
